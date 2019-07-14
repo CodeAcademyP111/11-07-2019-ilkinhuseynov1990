@@ -1,0 +1,11 @@
+C:\Users\ilkin\Desktop\C#\PharmacyHomework\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe.config
+C:\Users\ilkin\Desktop\C#\PharmacyHomework\Pharmacy\Pharmacy\bin\Debug\Pharmacy.exe
+C:\Users\ilkin\Desktop\C#\PharmacyHomework\Pharmacy\Pharmacy\bin\Debug\Pharmacy.pdb
+C:\Users\ilkin\Desktop\C#\PharmacyHomework\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csprojAssemblyReference.cache
+C:\Users\ilkin\Desktop\C#\PharmacyHomework\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Login.resources
+C:\Users\ilkin\Desktop\C#\PharmacyHomework\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Properties.Resources.resources
+C:\Users\ilkin\Desktop\C#\PharmacyHomework\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.GenerateResource.cache
+C:\Users\ilkin\Desktop\C#\PharmacyHomework\Pharmacy\Pharmacy\obj\Debug\Pharmacy.csproj.CoreCompileInputs.cache
+C:\Users\ilkin\Desktop\C#\PharmacyHomework\Pharmacy\Pharmacy\obj\Debug\Pharmacy.exe
+C:\Users\ilkin\Desktop\C#\PharmacyHomework\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb
+C:\Users\ilkin\Desktop\C#\PharmacyHomework\Pharmacy\Pharmacy\obj\Debug\Pharmacy.Medicine.resources
